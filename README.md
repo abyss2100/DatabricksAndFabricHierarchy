@@ -6,6 +6,7 @@ Databricks and Fabric each structure of data and control diagram
 ![Figure 1](undefined "Figure 1")
 
 
+<img width="1045" height="535" alt="image" src="https://github.com/user-attachments/assets/463ee6bd-9e17-4281-959e-858a66966c5b" />
 
 
 
