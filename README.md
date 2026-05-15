@@ -3,6 +3,10 @@
 # DatabricksAndFabricHierarchy
 Databricks and Fabric each structure of data and control diagram
 
+![Figure 1](undefined "Figure 1")
+
+
+
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/Hp8wR8jKsxmEkaSptbjs --->
