@@ -3,7 +3,11 @@
 # DatabricksAndFabricHierarchy
 Databricks and Fabric each structure of data and control diagram
 
+
+
 ![Figure 1](undefined "Figure 1")
+
+![Figure 2](undefined "Figure 2")
 
 
 
