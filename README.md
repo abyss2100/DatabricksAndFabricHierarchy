@@ -15,14 +15,15 @@ Scope of Work
 | <u>Current storage usage analysis</u> |  | Assessment | 0.5 day | size and increase rate calc work |
 | <u>Target storage calc</u> |  | Assessment | 0.5 day | size calc in mid-long term work |
 | <u>migration work</u> |  | migration complete | 1 day | Azure storage to another storage |
-| Target blob storage (detail) | <p>source:</p><p>Target:</p> |  |  | pipeline flow |
+| 3-2) Target blob storage (detail) | <p>source:</p><p>Target:</p> |  |  | pipeline flow |
+| <p>3-1) App team work</p><p>(detail)</p> | source to target key vaults path(all involved) update |  | 1 days: 0.5 day work and 0.5 day checkup all | key vaults involved should have all paths applications use. Update all |
 Location 
 
 |  |  |
 | ----- | ----- |
 | <u>**Site**</u><u> </u> | <u>**Duration**</u><u> </u> |
 | <u>Office </u> |  |
-| <u>Remote Location </u> | total 2 days work done by Azure Administrator, and in-between internal talk in one day with head of application team |
+| <u>Remote Location </u> | <p>total 3 days work done by Azure Administrator, and in-between internal talk in one day with head of application team.</p><p>App team work and final migration flow happens in parallel. During that 1 day, downtime expected. This is due to human work time takes real time, not application side natural down.</p> |
 Schedule 
 
 |  |  |  |
