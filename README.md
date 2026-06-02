@@ -5,9 +5,41 @@ Databricks and Fabric each structure of data and control diagram
 
 ![Figure 1](undefined "Figure 1")
 
-<img width="956" height="695" alt="image" src="https://github.com/user-attachments/assets/5a9fa8ce-1ee9-41c9-946d-d62dc5fa6e2a" />
+<Application usage Storage reform work>
 
-<img width="1045" height="535" alt="image" src="https://github.com/user-attachments/assets/463ee6bd-9e17-4281-959e-858a66966c5b" />
+Scope of Work 
+
+|  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- |
+| <u>**To Be Done**</u><u> </u> | <u>**Resources Needed**</u><u> </u> | <u>**Outcome**</u><u> </u> | <u>**Time Involved**</u><u> </u> | <u>**General Steps**</u><u> </u> |
+| <u>Current storage usage analysis</u> |  | Assessment | 0.5 day | size and increase rate calc work |
+| <u>Target storage calc</u> |  | Assessment | 0.5 day | size calc in mid-long term work |
+| <u>migration work</u> |  | migration complete | 1 day | Azure storage to another storage |
+| Target blob storage (detail) | <p>source:</p><p>Target:</p> |  |  | pipeline flow |
+Location 
+
+|  |  |
+| ----- | ----- |
+| <u>**Site**</u><u> </u> | <u>**Duration**</u><u> </u> |
+| <u>Office </u> |  |
+| <u>Remote Location </u> | total 2 days work done by Azure Administrator, and in-between internal talk in one day with head of application team |
+Schedule 
+
+|  |  |  |
+| ----- | ----- | ----- |
+| <u>**Phases**</u><u> </u> | <u>**Start**</u><u> </u> | <u>**Finish**</u><u> </u> |
+| <u>Phase #1 </u> | 6/8/26 9 AM | 6/8/26 1 PM |
+| <u>Phase #2 </u> | 6/9/26 9 AM | 6/9/26 1 PM |
+| <u>Phase #3 </u> | 6/10/26 9 AM | 6/10/26 3 PM |
+Deliverables 
+
+|  |  |  |
+| ----- | ----- | ----- |
+| <u>**Deliverable **</u><u> </u> | <u>**Objective**</u><u> </u> | <u>**Due Date**</u><u> </u> |
+| <u>Deliverable #1 </u> |  |  |
+| <u>Deliverable #2 </u> |  |  |
+| <u>Deliverable #3 </u> |  |  |
+
 
 
 
